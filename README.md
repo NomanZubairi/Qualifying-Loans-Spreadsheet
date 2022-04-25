@@ -7,9 +7,13 @@ This project is based on adding an additional useful feature to an established l
 ## Technologies
 
 Programming Language: Python
+
 Package Manager: Conda
+
 Text Editor: VS Code
+
 Operating System: Windows 11
+
 Command Line: Git Bash
 
 ---
@@ -33,6 +37,7 @@ Once executed, the program will:
 ## Contributors
 
 Noman Zubairi
+
 zubairinoman@gmail.com
 
 ---
