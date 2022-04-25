@@ -1,0 +1,50 @@
+   20  ls
+   21  git status
+   22  git add .
+   23  git commit -m "Added starter code files"
+   24  git push
+   25  git status
+   26  git status
+   27  git add .
+   28  git commit -m "Added save_csv function to fileio"
+   29  git push
+   30  ls
+   31  python app.py
+   32  python app.py
+   33  pip install questionary
+   34  conda activate dev
+   35  ls
+   36  python app.py
+   37  git status
+   38  git add .
+   39  git commit -m "Updated save_qualifying_loans function"
+   40  git push
+   41  ls
+   42  python app.py
+   43  python app.py
+   44  python app.py
+   45  pip install fire
+   46  python app.py
+   47  python app.py
+   48  python app.py
+   49  python app.py
+   50  python app.py
+   51  python app.p
+   52  python app.py
+   53  git status
+   54  git add .
+   55  git status
+   56  git commit -m "Added dialogs to save_qualifying_loans function"
+   57  git push
+   58  ls
+   59  python app.py
+   60  ls
+   61  git status
+   62  git add .
+   63  git commit -m "Added functionality documentation to readme"
+   64  git push
+   65  git status
+   66  git add .
+   67  git commit -m "Edited readme to make documentation more presentable"
+   68  git push
+   69  history 50 > terminal_history.txt
