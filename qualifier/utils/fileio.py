@@ -6,6 +6,17 @@ This contains a helper function for loading and saving CSV files.
 """
 import csv
 
+def save_csv(qualifying_loans, csvpath):
+    """Saves the qualifying loans to a CSV file. 
+    
+    Args:
+        qualifying_loans (list of lists): The qualified bank loans.
+        csvpath: A direct path to save the file into 
+        
+    Returns:
+        A CSV file saved as whatever name the user inputs that is located in
+        the folder the user inputs
+    """
 
 def load_csv(csvpath):
     """Reads the CSV file from path provided.
