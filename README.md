@@ -1,12 +1,16 @@
 # Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This project is based on adding an additional useful feature to an established lending software. This high-priority requested feature will prompt users to save a list of loans they qualify for in a CSV file format.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+Programming Language: Python
+Package Manager: Conda
+Text Editor: VS Code
+Operating System: Windows 11
+Command Line: Git Bash
 
 ---
 
@@ -18,16 +22,21 @@ In this section, you should include detailed installation notes containing code 
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+Once executed, the program will:
+- Prompt user to enter the file path to rate sheet
+- Prompt user to enter loan related details like credit score, debt, income, desired loan amount and home value
+- The program will then output the debt-to-income and loan-to-value ratios and the number of loans the user qualifies for.
+- Last but not least, program will ask user if they save the details for qualifying loans in a CSV file format. If so, the program will also ask the user for the path where they would like to save the CSV file. 
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Noman Zubairi
+zubairinoman@gmail.com
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+MIT
